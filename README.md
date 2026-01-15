@@ -1,4 +1,4 @@
-# 🏢 Employee Management API (HabotConnect Task)
+# 🏢 Employee Management API
 
 A modern **RESTful API** built to manage company employees efficiently.  
 This project emphasizes **clean architecture**, **secure authentication**, and **optimized data retrieval**, as required for the HabotConnect hiring task.
